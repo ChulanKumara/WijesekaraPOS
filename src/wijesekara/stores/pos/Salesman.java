@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samintha
+ * @author Chulan
  */
 public class Salesman extends MySqlDBConnect {
 

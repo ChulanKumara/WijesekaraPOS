@@ -21,7 +21,7 @@ import net.sf.jasperreports.swing.JRViewer;
 
 /**
  *
- * @author Samintha
+ * @author Chulan
  */
 public class ReportView extends JFrame {
 

@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samintha
+ * @author Chulan
  */
 public class UserUI extends javax.swing.JFrame {
 

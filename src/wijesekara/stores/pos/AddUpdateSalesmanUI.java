@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samintha
+ * @author Chulan
  */
 public class AddUpdateSalesmanUI extends javax.swing.JFrame {
 

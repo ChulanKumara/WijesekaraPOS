@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Samintha
+ * @author Chulan
  */
 public class AddUpdateProductUI extends javax.swing.JFrame {
 

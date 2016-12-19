@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Samintha
+ * @author Chulan
  */
 public class AddUpdateCustomerUI extends javax.swing.JFrame {
 
